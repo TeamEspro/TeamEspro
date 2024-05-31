@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗦𝗔𝗖𝗛𝗜𝗡+𝗧𝗘𝗔𝗠 𝗘𝗦𝗣𝗥𝗢+🚩+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>ᴛᴇᴀᴍ ᴇsᴘʀᴏ вσтѕ</b></h1>
-<p align="center"><a href="https://t.me/HaiwanOwner"><img src="https://telegra.ph/file/9d78c2eecd87be575bf38.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/HaiwanOwner"><img src="https://telegra.ph/file/f8b1a280bfc6149974ebd.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"
   
@@ -35,8 +35,10 @@
 <details>
 <summary><b>𝗦𝗨𝗣𝗣𝗢𝗥𝗧</b></summary>
 <a href="https://t.me/EsproSupport"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-</details>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</details>
 <summary><b>𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘</b></b></summary>
 <a href="https://t.me/HaiwanOwner"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
